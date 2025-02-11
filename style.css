@@ -1316,9 +1316,12 @@ body {
   animation-play-state: paused !important;
 }
 
+/* 
+3 gerberas
 flower 1- yellow,
 flower 2 - red,
-flower 3 - orange
+flower 3 - orange 
+*/
 
 /* Flower 1 - yellow */
 .flower--1 .flower__leaf {

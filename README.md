@@ -4,7 +4,7 @@ This project presents a digital representation of three gerberas, symbolizing "I
 
 ## Live Demo
 
-Experience the Valentine Flower [here](https://flower-gerberas.vercel.app).
+Experience the Flower [here](https://flower-gerberas.vercel.app).
 
 ![dasdas](https://github.com/user-attachments/assets/3e8cb3c0-a7a3-46b6-beec-8cff4222c822)
 
